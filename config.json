@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserender",
+        "uuid": 11566200,
+        "checksum": "xb3cx2"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
